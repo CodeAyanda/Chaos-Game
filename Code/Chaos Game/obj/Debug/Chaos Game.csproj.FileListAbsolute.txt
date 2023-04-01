@@ -1,0 +1,10 @@
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\bin\Debug\Chaos Game.exe.config
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\bin\Debug\Chaos Game.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\bin\Debug\Chaos Game.pdb
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\obj\Debug\Chaos Game.csproj.AssemblyReference.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\obj\Debug\Chaos_Game.Form1.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\obj\Debug\Chaos_Game.Properties.Resources.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\obj\Debug\Chaos Game.csproj.GenerateResource.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\obj\Debug\Chaos Game.csproj.CoreCompileInputs.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\obj\Debug\Chaos Game.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Chaos Game\Chaos Game\obj\Debug\Chaos Game.pdb
